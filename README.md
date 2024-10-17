@@ -60,10 +60,9 @@ r2
 dt.predict([[5,6]])
 
 ## Output:
-https://github.com/user-attachments/assets/4e211138-0aec-413a-af80-7614145f150d
-https://github.com/user-attachments/assets/e65374a7-b546-4ce8-ac37-3bb633254a04
-https://github.com/user-attachments/assets/2ff52bae-b1d8-4337-a5df-9d81a0f05f36
-
+![Screenshot 2024-10-17 103647](https://github.com/user-attachments/assets/4e211138-0aec-413a-af80-7614145f150d)
+![Screenshot 2024-10-17 103359](https://github.com/user-attachments/assets/e65374a7-b546-4ce8-ac37-3bb633254a04)<p>
+![Screenshot 2024-10-17 103427](https://github.com/user-attachments/assets/2ff52bae-b1d8-4337-a5df-9d81a0f05f36)
 
 
 ## Result:
