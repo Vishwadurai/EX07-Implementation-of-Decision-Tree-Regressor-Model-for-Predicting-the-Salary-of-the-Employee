@@ -58,6 +58,7 @@ r2=metrics.r2_score(ytest,y_pred)
 r2
 
 dt.predict([[5,6]])
+```
 
 ## Output:
 ![Screenshot 2024-10-17 103647](https://github.com/user-attachments/assets/4e211138-0aec-413a-af80-7614145f150d)
